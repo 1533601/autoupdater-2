@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Déploiement_1._0"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        
     </Application.Resources>
 </Application>

@@ -13,5 +13,6 @@ namespace Déploiement_1._0
     /// </summary>
     public partial class App : Application
     {
+
     }
 }
