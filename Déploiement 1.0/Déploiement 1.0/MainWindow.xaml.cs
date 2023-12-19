@@ -24,7 +24,7 @@ namespace Déploiement_1._0
         public MainWindow()
         {
             InitializeComponent();
-            AutoUpdater.Start("https://rbsoft.org/updates/AutoUpdater.xml");
+            AutoUpdater.Start("https://raw.githubusercontent.com/1533601/autoupdater-2/main/publication/AutoUpdater.xml");
         }
     }
 }
