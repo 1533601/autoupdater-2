@@ -25,7 +25,6 @@ namespace Déploiement_1._0
         {
             InitializeComponent();
             AutoUpdater.Start("https://raw.githubusercontent.com/1533601/autoupdater-2/main/publication/AutoUpdater.xml");
-            AutoUpdater.DownloadPath = "Release (9)/Release";
         }
     }
 }
